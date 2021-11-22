@@ -18,6 +18,6 @@ deno run --allow-all ./create_app.ts {template-repo-path} {template} {app-name}
 ## Example:
 
 ```shell
-deno run --allow-all ./create_app.ts redhwannacef/create-app react-app-template my-app
+deno run --allow-all ./create_app.ts redhwannacef/create-app react-vite-template my-app
 ```
 
